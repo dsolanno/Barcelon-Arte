@@ -1,0 +1,244 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+	"type": "Feature",
+	"properties": {
+		"data": 1900.0,
+		"autor": "Eduard Maria Balcells i Bu‹gas"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [2.138978999, 41.491266]
+	}
+}, {
+	"type": "Feature",
+	"properties": {
+		"data": 1900.0,
+		"autor": "Eduard Maria Balcells i Bu‹gas"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [2.138978999, 41.491266]
+	}
+}, {
+	"type": "Feature",
+	"properties": {
+		"data": 1900.0,
+		"autor": "Eduard Maria Balcells i Bu‹gas"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [2.138978999, 41.491266]
+	}
+}, {
+	"type": "Feature",
+	"properties": {
+		"data": 1900.0,
+		"autor": "an•nim"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [2.138978999, 41.491266]
+	}
+}, {
+	"type": "Feature",
+	"properties": {
+		"data": 1897.0,
+		"autor": "Antoni Rigalt i Blanch"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [2.170634000, 41.3841634]
+	}
+}, {
+	"type": "Feature",
+	"properties": {
+		"data": 1902.0,
+		"autor": "Antoni Ros i Gell"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [2.172725500, 41.3814871]
+	}
+}, {
+	"type": "Feature",
+	"properties": {
+		"data": 1902.0,
+		"autor": "Antoni Rigalt i Blanch"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [2.166085100, 41.3843172]
+	}
+}, {
+	"type": "Feature",
+	"properties": {
+		"data": 1925.0,
+		"autor": "Darius Vil…s i Fern ndez"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [2.178416900, 41.3826735]
+	}
+}, {
+	"type": "Feature",
+	"properties": {
+		"data": 1907.0,
+		"autor": "Jeroni Ferran Granell i Manresa"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [2.175479999, 41.37915]
+	}
+}, {
+	"type": "Feature",
+	"properties": {
+		"data": 1916.0,
+		"autor": "Darius Vil…s i Fern ndez"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [2.648251800, 39.5673831]
+	}
+}, {
+	"type": "Feature",
+	"properties": {
+		"data": 1884.0,
+		"autor": "Francesc de Paula Villar i Lozano"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [1.837696599, 41.593305]
+	}
+}, {
+	"type": "Feature",
+	"properties": {
+		"data": 1908.0,
+		"autor": "Antoni Rigalt i Blanch"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [2.166085100, 41.3843172]
+	}
+}, {
+	"type": "Feature",
+	"properties": {
+		"data": 1907.0,
+		"autor": "Enric Sagnier i Villavecchia"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [2.166085100, 41.3843172]
+	}
+}, {
+	"type": "Feature",
+	"properties": {
+		"data": 1910.0,
+		"autor": "Rafael Mas¢ i Valent¡"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [2.488726400, 42.1786177]
+	}
+}, {
+	"type": "Feature",
+	"properties": {
+		"data": 1900.0,
+		"autor": "Llu¡s DomŠnech i Montaner"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [1.108547799, 41.1548659]
+	}
+}, {
+	"type": "Feature",
+	"properties": {
+		"data": 1900.0,
+		"autor": "Gaspar Homar i Mezquida"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [1.108547799, 41.1548659]
+	}
+}, {
+	"type": "Feature",
+	"properties": {
+		"data": 1915.0,
+		"autor": "Bonaventura Bassegoda i Amig¢"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [2, 168309700, 41.3870489]
+	}
+}, {
+	"type": "Feature",
+	"properties": {
+		"data": 1915.0,
+		"autor": "Rafael Mas¢ i Valent¡"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [2.639851599, 41.9566902]
+	}
+}, {
+	"type": "Feature",
+	"properties": {
+		"data": 1914.0,
+		"autor": "Francesc Labarta i Planas"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [2.142239900, 41.3754205]
+	}
+}, {
+	"type": "Feature",
+	"properties": {
+		"data": 1905.0,
+		"autor": "Joaquim Renart i Garcia"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [2.153566999, 41.3684399]
+	}
+}, {
+	"type": "Feature",
+	"properties": {
+		"data": 1888.0,
+		"autor": "Antoni Rigalt i Blanch"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [2.183355699, 41.3880832]
+	}
+}, {
+	"type": "Feature",
+	"properties": {
+		"data": 1910.0,
+		"autor": "August Font i Carreras"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [1.519380200, 41.9941572]
+	}
+}, {
+	"type": "Feature",
+	"properties": {
+		"data": 1887.0,
+		"autor": "Francesc de Paula Villar i Lozano"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [1.837696599, 41.593305]
+	}
+}, {
+	"type": "Feature",
+	"properties": {
+		"data": 1900.0,
+		"autor": "Josep Su¤er"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [2.170705799, 41.3952778]
+	}
+}]
+}
